@@ -1,0 +1,20 @@
+{
+  "name": "mudraka",
+  "version": "0.0.1",
+  "description": "Pdf Generating server. mudra is print in sanskrit, mudraka is the printer ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdfprint",
+    "chromeheadless"
+  ],
+  "author": "Vijay Gudimella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^9.1.1"
+  }
+}

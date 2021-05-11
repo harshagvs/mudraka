@@ -1,17 +1,19 @@
-## Mudraka
-The one who prints 
+# Mudraka
+
+moo.dra.ka  - The person who prints in sanskrit 
+
 A PDF Generator for applications that require the browser rendered output to be saved as PDF.
 
-## Features
+# Features
 
 * Can be run in a docker container
 * Can be used to deploy for different environments by changing the environment variable TARGET
 
-## Coming soon
+# Coming soon
 * Currently a new browser instance is launched for every PDF request. change it to a pooled browsers - you know why
 * Ability to upload the pdfs to s3 to support asynchronous workloads
 
-## How to use
+# How to use
 
 * Clone the repo
 

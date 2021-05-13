@@ -1,6 +1,6 @@
 # Mudraka
 
-moo.dra.ka  - The person who prints in sanskrit 
+ The person who prints.. in sanskrit 
 
 A PDF Generator for applications that require the browser rendered output to be saved as PDF.
 
